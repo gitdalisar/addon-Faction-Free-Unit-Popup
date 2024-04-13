@@ -1,8 +1,8 @@
 # Faction Free Unit Popup
 Name:   addon-Faction-Free-Unit-Popup \
 Author:   gitdalisar \
-Repository:   https://github.com/gitdalisar/addon-faction-free-unit-popup \
-Download:   https://github.com/gitdalisar/addon-faction-free-unit-popup/archive/refs/heads/main.zip \
+Repository:   https://github.com/gitdalisar/addon-Faction-Free-Unit-Popup \
+Download:   https://github.com/gitdalisar/addon-Faction-Free-Unit-Popup/archive/refs/heads/main.zip \
 License:   GNU Affero General Public License v3.0
 
 Designed and Implemented for AzerothCore (https://azerothcore.org). If you are running a different server version, please review the files before loading into your environment!
