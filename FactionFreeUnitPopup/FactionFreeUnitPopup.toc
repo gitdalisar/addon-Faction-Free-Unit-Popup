@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Faction Free Unit Popup
+## Notes: Allows players to invite members of the opposing faction into their group.
+## Version: 1.0
+## Author: Dalisar (GitDalisar)
+## SavedVariables: FactionFreeInviteOppositionDB
+FactionFreeUnitPopup.lua
