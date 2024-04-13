@@ -26,7 +26,7 @@ What this addon *_DOES_* make available:
 - If you ARE in the party with the opposing faction target, give full menu support
 
 ## Contact Info
-If you would like to ask any questions, you can find me on the AzerothCore Discord as @Dalisar so feel free to DM me there!
+If you would like to ask any questions, you can find me on the AzerothCore Discord (https://discord.gg/s8wwRYGaUT) as well as the WoW Modding Community Discord (https://discord.gg/zqSaT95fk2) as @Dalisar so feel free to DM me there!
 
 ## Special Thanks!
 Special thanks to the AC and WOW Modding communities for their support. Also, special shout out to those assisting in testing and code review:
