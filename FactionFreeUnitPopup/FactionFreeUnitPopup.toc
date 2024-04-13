@@ -1,7 +1,11 @@
 ## Interface: 30300
 ## Title: Faction Free Unit Popup
-## Notes: Allows players to invite members of the opposing faction into their group.
+## Notes: Enhance the Unit Popup Menu from right-clicking a player of the opposite faction
+##        to now include Invite and Whisper functionality while removing the Set Focus feature
+##        to prevent addon errors. Focus via popup menu will still work for group members,
+##        players of same faction, and npc. Will also work for members of opposite faction
+##        once they are in the party.
 ## Version: 1.0
 ## Author: Dalisar (GitDalisar)
-## SavedVariables: FactionFreeInviteOppositionDB
+## Git Repo: https://github.com/gitdalisar/addon-Faction-Free-Unit-Popup
 FactionFreeUnitPopup.lua
